@@ -2,7 +2,7 @@
 
 OPEN IMAGE.PNG!!!!
 
-[-] best boost tool
+[❤️] best boost tool
 
 [-] need token
 
