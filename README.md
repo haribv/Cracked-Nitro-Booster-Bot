@@ -1,6 +1,6 @@
 # self-made-nitro-booster-tool
 
-OPEN IMAGE.PNG!!!!
+[📰] open image.png / create input file
 
 [💸] best boost tool
 
