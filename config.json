@@ -1,0 +1,15 @@
+{
+    "bot_token": "",
+    "bot_status": "gg/saveboost",
+    "capmonster_key": "",
+    "proxyless": true,
+    "field_name_invite": "",
+    "change_server_nick": true,
+    "server_nick": ".gg/saveboost",
+    "guildID": "1076630232578138193",
+    "ownerID": [225864701328883713],
+    "adminID": [225864701328883713],
+    "order_log_webhook": "https://discord.com/api/webhooks/1094281996940882052/tRAO4oGrJNtYKPP9uauj08fl6f0HcW-Fd4w1gh93r1ISfuiBLyRsCvKRUXkrHYN0ywXw",
+    "boost_log_webhook": "https://discord.com/api/webhooks/1094281996940882052/tRAO4oGrJNtYKPP9uauj08fl6f0HcW-Fd4w1gh93r1ISfuiBLyRsCvKRUXkrHYN0ywXw",
+    "boost_failed_log_webhook": "https://discord.com/api/webhooks/1094281996940882052/tRAO4oGrJNtYKPP9uauj08fl6f0HcW-Fd4w1gh93r1ISfuiBLyRsCvKRUXkrHYN0ywXw"
+}
