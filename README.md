@@ -4,6 +4,6 @@ OPEN IMAGE.PNG!!!!
 
 [❤️] best boost tool
 
-[-] need token
+[📙] need token
 
-[-] need proxy
+[📙] need proxy
