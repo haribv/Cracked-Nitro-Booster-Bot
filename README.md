@@ -1,4 +1,7 @@
-### **I cracked this bot 1 years ago, and now its 2024/12/20 and the bot is still works**
+# WOWOWO
+
+- About the bot:
+- I cracked this bot 1 years ago, and now its 2024/12/20 and its still works.
 
 - Requests:
 1. Python for read or change the code. (Visual Studio Code)
